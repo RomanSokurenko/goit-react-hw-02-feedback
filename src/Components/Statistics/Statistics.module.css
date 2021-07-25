@@ -1,0 +1,9 @@
+.statistics {
+  font-weight: 500;
+  background: rgb(237, 150, 100);
+  margin: 5px auto;
+  padding: 15px;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
